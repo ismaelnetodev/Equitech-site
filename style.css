@@ -88,7 +88,7 @@ h6 {
 	cursor: pointer;
 }
 .nav-scroll .navbar-toggler span {
-	color: #333;
+	color: #e4e2e2;
 }
 .nav-scroll .nav-link:hover:after {
 	background-color: #2388ed;
@@ -416,7 +416,7 @@ input {
 	padding: 10px 0;
 }
 .nav-scroll .navbar-collapse {
-	background: #ffffff !important;
+	background: #2516a5 !important;
 }
 #contact_form {
 	margin-bottom:20px;
